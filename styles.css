@@ -1,0 +1,20 @@
+#display{
+    text-align: center;
+    display: grid;
+    padding: 15px;
+    font-size: 80px;
+    border: solid;
+}
+
+#btncontainer{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+button{
+    background-color: green;
+    color: white;
+    padding: 10px;
+margin-right: 10px;
+border-radius: 50%;
+}
